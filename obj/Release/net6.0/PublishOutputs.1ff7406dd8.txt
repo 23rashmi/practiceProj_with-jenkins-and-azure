@@ -1,0 +1,7 @@
+D:\MPHASIS PROJECTS\Phase-4\WebApplication1JENKINSPROJ\WebApplication1JENKINSPROJ\obj\Release\net6.0\PubTmp\Out\WebApplication1JENKINSPROJ.exe
+D:\MPHASIS PROJECTS\Phase-4\WebApplication1JENKINSPROJ\WebApplication1JENKINSPROJ\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+D:\MPHASIS PROJECTS\Phase-4\WebApplication1JENKINSPROJ\WebApplication1JENKINSPROJ\obj\Release\net6.0\PubTmp\Out\appsettings.json
+D:\MPHASIS PROJECTS\Phase-4\WebApplication1JENKINSPROJ\WebApplication1JENKINSPROJ\obj\Release\net6.0\PubTmp\Out\WebApplication1JENKINSPROJ.dll
+D:\MPHASIS PROJECTS\Phase-4\WebApplication1JENKINSPROJ\WebApplication1JENKINSPROJ\obj\Release\net6.0\PubTmp\Out\WebApplication1JENKINSPROJ.deps.json
+D:\MPHASIS PROJECTS\Phase-4\WebApplication1JENKINSPROJ\WebApplication1JENKINSPROJ\obj\Release\net6.0\PubTmp\Out\WebApplication1JENKINSPROJ.runtimeconfig.json
+D:\MPHASIS PROJECTS\Phase-4\WebApplication1JENKINSPROJ\WebApplication1JENKINSPROJ\obj\Release\net6.0\PubTmp\Out\WebApplication1JENKINSPROJ.pdb
